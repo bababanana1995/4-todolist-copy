@@ -1,0 +1,18 @@
+.wrapp {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+    width: fit-content;
+
+}
+
+.container_1 {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    width: 100px;
+    padding: 5px;
+    border-radius: 50%;
+}
